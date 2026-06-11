@@ -1,8 +1,8 @@
-# Plano de Trabalho — Correções para Reapresentação (Prova Final)
+# Plano de Trabalho — Correções para Reapresentação 
 
 **Projeto:** Sistema Inteligente de Monitoramento da Qualidade do Ar em Ambientes Internos (IoT)
 **Disciplina:** Objetos Inteligentes Conectados — Prof. Wallace Rodrigues de Santana
-**Grupo:** Gustavo Giacometti, Giovanni Pontes, Wallace Santana
+**Grupo:** Gustavo Giacometti, Giovanni Pontes.
 
 ## Contexto
 Este plano detalha, de forma técnica, as correções que serão realizadas para atacar os três pontos
